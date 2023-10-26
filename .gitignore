@@ -1,0 +1,9 @@
+# Archivos y directorios generados por el sistema de construcción
+build.xml
+build/
+
+# Archivo de manifiesto
+manifest.mf
+
+# Directorio de configuración del proyecto NetBeans
+nbproject/
